@@ -1,0 +1,464 @@
+7.0s 1 Labels Shape:  (60000,)
+7.0s 2 Images Shape:  (60000, 28, 28)
+19.3s 3 Training Data - Images Shape: (48000, 784) Labels Shape: (48000, 10)
+19.3s 4 Validation Data - Images Shape: (12000, 784) Labels Shape: (12000, 10)
+19.3s 5 Test Data - Images Shape: (10000, 784) Labels Shape: (10000, 10)
+19.5s 6 Total Trainable Parameters: 848128
+22.5s 7 Epoch 0, Training Loss: 2.1233, Validation Loss: 2.1250, Accuracy: 0.2885
+22.5s 8 Best Weights saved to Disk.
+22.5s 9 Epoch 0, Training Loss: 2.1233, Validation Loss: 2.1250, Accuracy: 0.2885
+25.8s 10 Epoch 1, Training Loss: 2.0222, Validation Loss: 2.0438, Accuracy: 0.3311
+25.8s 11 Best Weights saved to Disk.
+31.5s 12 Epoch 3, Training Loss: 1.8358, Validation Loss: 1.8503, Accuracy: 0.5523
+31.5s 13 Best Weights saved to Disk.
+34.4s 14 Epoch 4, Training Loss: 1.7212, Validation Loss: 1.7612, Accuracy: 0.3707
+34.4s 15 Best Weights saved to Disk.
+45.9s 16 Epoch 8, Training Loss: 1.6454, Validation Loss: 1.6654, Accuracy: 0.5619
+45.9s 17 Best Weights saved to Disk.
+51.9s 18 Epoch 10, Training Loss: 1.3193, Validation Loss: 1.3446, Accuracy: 0.6065
+51.9s 19 Best Weights saved to Disk.
+78.2s 20 Epoch 19, Training Loss: 1.3241, Validation Loss: 1.3372, Accuracy: 0.6212
+78.2s 21 Best Weights saved to Disk.
+83.9s 22 Epoch 21, Training Loss: 1.2728, Validation Loss: 1.2775, Accuracy: 0.6057
+83.9s 23 Best Weights saved to Disk.
+89.9s 24 Epoch 23, Training Loss: 1.2398, Validation Loss: 1.2387, Accuracy: 0.6202
+89.9s 25 Best Weights saved to Disk.
+101.2s 26 Epoch 27, Training Loss: 1.2247, Validation Loss: 1.2220, Accuracy: 0.6358
+101.2s 27 Best Weights saved to Disk.
+112.3s 28 Epoch 31, Training Loss: 1.1940, Validation Loss: 1.1911, Accuracy: 0.6231
+112.3s 29 Best Weights saved to Disk.
+117.9s 30 Epoch 33, Training Loss: 1.1188, Validation Loss: 1.1115, Accuracy: 0.6594
+117.9s 31 Best Weights saved to Disk.
+123.7s 32 Epoch 35, Training Loss: 1.0403, Validation Loss: 1.0406, Accuracy: 0.6719
+123.7s 33 Best Weights saved to Disk.
+129.2s 34 Epoch 37, Training Loss: 0.9924, Validation Loss: 0.9995, Accuracy: 0.6823
+129.2s 35 Best Weights saved to Disk.
+134.7s 36 Epoch 39, Training Loss: 0.9601, Validation Loss: 0.9759, Accuracy: 0.6926
+134.7s 37 Best Weights saved to Disk.
+140.1s 38 Epoch 41, Training Loss: 0.9010, Validation Loss: 0.9162, Accuracy: 0.7087
+140.1s 39 Best Weights saved to Disk.
+145.6s 40 Epoch 43, Training Loss: 0.8608, Validation Loss: 0.8725, Accuracy: 0.7238
+145.6s 41 Best Weights saved to Disk.
+168.1s 42 Epoch 51, Training Loss: 0.8733, Validation Loss: 0.8704, Accuracy: 0.7268
+168.1s 43 Best Weights saved to Disk.
+185.2s 44 Epoch 57, Training Loss: 0.8880, Validation Loss: 0.8686, Accuracy: 0.7452
+185.2s 45 Best Weights saved to Disk.
+191.0s 46 Epoch 59, Training Loss: 0.8699, Validation Loss: 0.8521, Accuracy: 0.7442
+191.0s 47 Best Weights saved to Disk.
+196.6s 48 Epoch 61, Training Loss: 0.8199, Validation Loss: 0.8018, Accuracy: 0.7567
+196.6s 49 Best Weights saved to Disk.
+202.2s 50 Epoch 63, Training Loss: 0.7790, Validation Loss: 0.7601, Accuracy: 0.7761
+202.2s 51 Best Weights saved to Disk.
+207.7s 52 Epoch 65, Training Loss: 0.7659, Validation Loss: 0.7445, Accuracy: 0.7893
+207.7s 53 Best Weights saved to Disk.
+230.8s 54 Epoch 73, Training Loss: 0.7655, Validation Loss: 0.7428, Accuracy: 0.7769
+230.8s 55 Best Weights saved to Disk.
+242.0s 56 Epoch 77, Training Loss: 0.7426, Validation Loss: 0.7309, Accuracy: 0.7670
+242.0s 57 Best Weights saved to Disk.
+289.9s 58 Epoch 94, Training Loss: 0.7094, Validation Loss: 0.7080, Accuracy: 0.7959
+289.9s 59 Best Weights saved to Disk.
+295.5s 60 Epoch 96, Training Loss: 0.6786, Validation Loss: 0.6772, Accuracy: 0.8037
+295.5s 61 Best Weights saved to Disk.
+301.0s 62 Epoch 98, Training Loss: 0.6502, Validation Loss: 0.6526, Accuracy: 0.8084
+301.0s 63 Best Weights saved to Disk.
+306.5s 64 Epoch 100, Training Loss: 0.6292, Validation Loss: 0.6419, Accuracy: 0.8100
+306.5s 65 Best Weights saved to Disk.
+306.5s 66 Epoch 100, Training Loss: 0.6292, Validation Loss: 0.6419, Accuracy: 0.8100
+379.9s 67 Epoch 126, Training Loss: 0.6412, Validation Loss: 0.6314, Accuracy: 0.8214
+379.9s 68 Best Weights saved to Disk.
+385.4s 69 Epoch 128, Training Loss: 0.6110, Validation Loss: 0.6019, Accuracy: 0.8228
+385.4s 70 Best Weights saved to Disk.
+452.4s 71 Epoch 152, Training Loss: 0.6147, Validation Loss: 0.5872, Accuracy: 0.8484
+452.4s 72 Best Weights saved to Disk.
+480.5s 73 Epoch 162, Training Loss: 0.6062, Validation Loss: 0.5867, Accuracy: 0.8399
+480.5s 74 Best Weights saved to Disk.
+486.0s 75 Epoch 164, Training Loss: 0.6038, Validation Loss: 0.5849, Accuracy: 0.8413
+486.0s 76 Best Weights saved to Disk.
+491.5s 77 Epoch 166, Training Loss: 0.5903, Validation Loss: 0.5756, Accuracy: 0.8467
+491.5s 78 Best Weights saved to Disk.
+508.4s 79 Epoch 172, Training Loss: 0.5715, Validation Loss: 0.5696, Accuracy: 0.8450
+508.4s 80 Best Weights saved to Disk.
+530.4s 81 Epoch 180, Training Loss: 0.5858, Validation Loss: 0.5626, Accuracy: 0.8481
+530.4s 82 Best Weights saved to Disk.
+535.9s 83 Epoch 182, Training Loss: 0.5729, Validation Loss: 0.5591, Accuracy: 0.8495
+535.9s 84 Best Weights saved to Disk.
+542.0s 85 Epoch 184, Training Loss: 0.5443, Validation Loss: 0.5375, Accuracy: 0.8570
+542.0s 86 Best Weights saved to Disk.
+547.4s 87 Epoch 186, Training Loss: 0.5262, Validation Loss: 0.5205, Accuracy: 0.8609
+547.4s 88 Best Weights saved to Disk.
+552.9s 89 Epoch 188, Training Loss: 0.5193, Validation Loss: 0.5170, Accuracy: 0.8572
+552.9s 90 Best Weights saved to Disk.
+586.3s 91 Epoch 200, Training Loss: 0.5609, Validation Loss: 0.5698, Accuracy: 0.8524
+589.1s 92 Epoch 201, Training Loss: 0.5363, Validation Loss: 0.5140, Accuracy: 0.8542
+589.1s 93 Best Weights saved to Disk.
+594.7s 94 Epoch 203, Training Loss: 0.5034, Validation Loss: 0.4795, Accuracy: 0.8598
+594.7s 95 Best Weights saved to Disk.
+600.2s 96 Epoch 205, Training Loss: 0.4792, Validation Loss: 0.4556, Accuracy: 0.8622
+600.2s 97 Best Weights saved to Disk.
+681.2s 98 Epoch 234, Training Loss: 0.4585, Validation Loss: 0.4503, Accuracy: 0.8762
+681.2s 99 Best Weights saved to Disk.
+824.2s 100 Epoch 285, Training Loss: 0.4546, Validation Loss: 0.4428, Accuracy: 0.8858
+824.2s 101 Best Weights saved to Disk.
+830.5s 102 Epoch 287, Training Loss: 0.4420, Validation Loss: 0.4311, Accuracy: 0.8896
+830.5s 103 Best Weights saved to Disk.
+836.1s 104 Epoch 289, Training Loss: 0.4321, Validation Loss: 0.4199, Accuracy: 0.8925
+836.1s 105 Best Weights saved to Disk.
+841.7s 106 Epoch 291, Training Loss: 0.4218, Validation Loss: 0.4107, Accuracy: 0.8943
+841.7s 107 Best Weights saved to Disk.
+847.2s 108 Epoch 293, Training Loss: 0.4124, Validation Loss: 0.4009, Accuracy: 0.8948
+847.2s 109 Best Weights saved to Disk.
+852.8s 110 Epoch 295, Training Loss: 0.4039, Validation Loss: 0.3931, Accuracy: 0.8972
+852.8s 111 Best Weights saved to Disk.
+866.9s 112 Epoch 300, Training Loss: 0.4599, Validation Loss: 0.4762, Accuracy: 0.8768
+942.3s 113 Epoch 327, Training Loss: 0.3939, Validation Loss: 0.3822, Accuracy: 0.8951
+942.3s 114 Best Weights saved to Disk.
+947.9s 115 Epoch 329, Training Loss: 0.3830, Validation Loss: 0.3741, Accuracy: 0.8976
+947.9s 116 Best Weights saved to Disk.
+976.3s 117 Epoch 339, Training Loss: 0.3600, Validation Loss: 0.3661, Accuracy: 0.9030
+976.3s 118 Best Weights saved to Disk.
+981.8s 119 Epoch 341, Training Loss: 0.3413, Validation Loss: 0.3486, Accuracy: 0.9076
+981.8s 120 Best Weights saved to Disk.
+987.5s 121 Epoch 343, Training Loss: 0.3317, Validation Loss: 0.3403, Accuracy: 0.9117
+987.5s 122 Best Weights saved to Disk.
+998.7s 123 Epoch 347, Training Loss: 0.3270, Validation Loss: 0.3377, Accuracy: 0.9111
+998.7s 124 Best Weights saved to Disk.
+1127.3s 125 Epoch 393, Training Loss: 0.3216, Validation Loss: 0.3334, Accuracy: 0.9139
+1127.3s 126 Best Weights saved to Disk.
+1133.0s 127 Epoch 395, Training Loss: 0.3074, Validation Loss: 0.3203, Accuracy: 0.9156
+1133.0s 128 Best Weights saved to Disk.
+1138.6s 129 Epoch 397, Training Loss: 0.2986, Validation Loss: 0.3122, Accuracy: 0.9193
+1138.6s 130 Best Weights saved to Disk.
+1147.1s 131 Epoch 400, Training Loss: 0.4587, Validation Loss: 0.4563, Accuracy: 0.8957
+1278.0s 132 Epoch 447, Training Loss: 0.2997, Validation Loss: 0.3057, Accuracy: 0.9213
+1278.0s 133 Best Weights saved to Disk.
+1283.5s 134 Epoch 449, Training Loss: 0.2922, Validation Loss: 0.2986, Accuracy: 0.9233
+1283.5s 135 Best Weights saved to Disk.
+1288.9s 136 Epoch 451, Training Loss: 0.2908, Validation Loss: 0.2966, Accuracy: 0.9236
+1288.9s 137 Best Weights saved to Disk.
+1385.8s 138 Epoch 486, Training Loss: 0.2958, Validation Loss: 0.2957, Accuracy: 0.9153
+1385.8s 139 Best Weights saved to Disk.
+1391.3s 140 Epoch 488, Training Loss: 0.2847, Validation Loss: 0.2857, Accuracy: 0.9163
+1391.3s 141 Best Weights saved to Disk.
+1396.8s 142 Epoch 490, Training Loss: 0.2751, Validation Loss: 0.2803, Accuracy: 0.9188
+1396.8s 143 Best Weights saved to Disk.
+1408.1s 144 Epoch 494, Training Loss: 0.2611, Validation Loss: 0.2712, Accuracy: 0.9289
+1408.1s 145 Best Weights saved to Disk.
+1424.5s 146 Epoch 500, Training Loss: 0.3842, Validation Loss: 0.3815, Accuracy: 0.9095
+1590.6s 147 Epoch 560, Training Loss: 0.2558, Validation Loss: 0.2608, Accuracy: 0.9353
+1590.6s 148 Best Weights saved to Disk.
+1596.4s 149 Epoch 562, Training Loss: 0.2505, Validation Loss: 0.2555, Accuracy: 0.9369
+1596.4s 150 Best Weights saved to Disk.
+1602.1s 151 Epoch 564, Training Loss: 0.2485, Validation Loss: 0.2552, Accuracy: 0.9384
+1602.1s 152 Best Weights saved to Disk.
+1624.0s 153 Epoch 572, Training Loss: 0.2570, Validation Loss: 0.2478, Accuracy: 0.9374
+1624.0s 154 Best Weights saved to Disk.
+1629.9s 155 Epoch 574, Training Loss: 0.2477, Validation Loss: 0.2396, Accuracy: 0.9397
+1629.9s 156 Best Weights saved to Disk.
+1635.3s 157 Epoch 576, Training Loss: 0.2435, Validation Loss: 0.2349, Accuracy: 0.9377
+1635.3s 158 Best Weights saved to Disk.
+1640.8s 159 Epoch 578, Training Loss: 0.2338, Validation Loss: 0.2243, Accuracy: 0.9408
+1640.8s 160 Best Weights saved to Disk.
+1702.5s 161 Epoch 600, Training Loss: 0.2924, Validation Loss: 0.2830, Accuracy: 0.9300
+1758.4s 162 Epoch 620, Training Loss: 0.2247, Validation Loss: 0.2223, Accuracy: 0.9394
+1758.4s 163 Best Weights saved to Disk.
+1763.9s 164 Epoch 622, Training Loss: 0.2213, Validation Loss: 0.2197, Accuracy: 0.9437
+1763.9s 165 Best Weights saved to Disk.
+1924.1s 166 Epoch 679, Training Loss: 0.2193, Validation Loss: 0.2184, Accuracy: 0.9430
+1924.1s 167 Best Weights saved to Disk.
+1929.6s 168 Epoch 681, Training Loss: 0.2121, Validation Loss: 0.2112, Accuracy: 0.9441
+1929.6s 169 Best Weights saved to Disk.
+1935.2s 170 Epoch 683, Training Loss: 0.2087, Validation Loss: 0.2081, Accuracy: 0.9449
+1935.2s 171 Best Weights saved to Disk.
+1940.7s 172 Epoch 685, Training Loss: 0.2068, Validation Loss: 0.2060, Accuracy: 0.9449
+1940.7s 173 Best Weights saved to Disk.
+1952.2s 174 Epoch 689, Training Loss: 0.1995, Validation Loss: 0.2007, Accuracy: 0.9435
+1952.2s 175 Best Weights saved to Disk.
+1957.7s 176 Epoch 691, Training Loss: 0.1941, Validation Loss: 0.1961, Accuracy: 0.9450
+1957.7s 177 Best Weights saved to Disk.
+1963.2s 178 Epoch 693, Training Loss: 0.1921, Validation Loss: 0.1940, Accuracy: 0.9460
+1963.2s 179 Best Weights saved to Disk.
+1968.7s 180 Epoch 695, Training Loss: 0.1870, Validation Loss: 0.1878, Accuracy: 0.9477
+1968.7s 181 Best Weights saved to Disk.
+1974.3s 182 Epoch 697, Training Loss: 0.1831, Validation Loss: 0.1833, Accuracy: 0.9490
+1974.3s 183 Best Weights saved to Disk.
+1980.0s 184 Epoch 699, Training Loss: 0.1790, Validation Loss: 0.1796, Accuracy: 0.9497
+1980.0s 185 Best Weights saved to Disk.
+1983.1s 186 Epoch 700, Training Loss: 0.2343, Validation Loss: 0.2324, Accuracy: 0.9395
+1985.9s 187 Epoch 701, Training Loss: 0.1781, Validation Loss: 0.1780, Accuracy: 0.9497
+1985.9s 188 Best Weights saved to Disk.
+1991.4s 189 Epoch 703, Training Loss: 0.1758, Validation Loss: 0.1750, Accuracy: 0.9511
+1991.4s 190 Best Weights saved to Disk.
+1996.9s 191 Epoch 705, Training Loss: 0.1762, Validation Loss: 0.1748, Accuracy: 0.9523
+1996.9s 192 Best Weights saved to Disk.
+2189.7s 193 Epoch 774, Training Loss: 0.1710, Validation Loss: 0.1679, Accuracy: 0.9565
+2189.7s 194 Best Weights saved to Disk.
+2206.5s 195 Epoch 780, Training Loss: 0.1695, Validation Loss: 0.1662, Accuracy: 0.9578
+2206.5s 196 Best Weights saved to Disk.
+2212.1s 197 Epoch 782, Training Loss: 0.1664, Validation Loss: 0.1634, Accuracy: 0.9600
+2212.1s 198 Best Weights saved to Disk.
+2217.5s 199 Epoch 784, Training Loss: 0.1650, Validation Loss: 0.1624, Accuracy: 0.9597
+2217.5s 200 Best Weights saved to Disk.
+2228.5s 201 Epoch 788, Training Loss: 0.1635, Validation Loss: 0.1620, Accuracy: 0.9594
+2228.5s 202 Best Weights saved to Disk.
+2240.0s 203 Epoch 792, Training Loss: 0.1607, Validation Loss: 0.1608, Accuracy: 0.9583
+2240.0s 204 Best Weights saved to Disk.
+2245.5s 205 Epoch 794, Training Loss: 0.1582, Validation Loss: 0.1583, Accuracy: 0.9579
+2245.5s 206 Best Weights saved to Disk.
+2261.9s 207 Epoch 800, Training Loss: 0.1608, Validation Loss: 0.1606, Accuracy: 0.9561
+2267.4s 208 Epoch 802, Training Loss: 0.1546, Validation Loss: 0.1534, Accuracy: 0.9570
+2267.4s 209 Best Weights saved to Disk.
+2273.4s 210 Epoch 804, Training Loss: 0.1498, Validation Loss: 0.1478, Accuracy: 0.9588
+2273.4s 211 Best Weights saved to Disk.
+2278.8s 212 Epoch 806, Training Loss: 0.1453, Validation Loss: 0.1435, Accuracy: 0.9596
+2278.8s 213 Best Weights saved to Disk.
+2407.3s 214 Epoch 852, Training Loss: 0.1480, Validation Loss: 0.1432, Accuracy: 0.9607
+2407.3s 215 Best Weights saved to Disk.
+2412.8s 216 Epoch 854, Training Loss: 0.1451, Validation Loss: 0.1399, Accuracy: 0.9614
+2412.8s 217 Best Weights saved to Disk.
+2418.3s 218 Epoch 856, Training Loss: 0.1429, Validation Loss: 0.1367, Accuracy: 0.9617
+2418.3s 219 Best Weights saved to Disk.
+2517.8s 220 Epoch 892, Training Loss: 0.1303, Validation Loss: 0.1355, Accuracy: 0.9644
+2517.8s 221 Best Weights saved to Disk.
+2523.2s 222 Epoch 894, Training Loss: 0.1280, Validation Loss: 0.1322, Accuracy: 0.9645
+2523.2s 223 Best Weights saved to Disk.
+2529.2s 224 Epoch 896, Training Loss: 0.1273, Validation Loss: 0.1313, Accuracy: 0.9643
+2529.2s 225 Best Weights saved to Disk.
+2540.1s 226 Epoch 900, Training Loss: 0.1772, Validation Loss: 0.1756, Accuracy: 0.9559
+2637.1s 227 Epoch 935, Training Loss: 0.1291, Validation Loss: 0.1257, Accuracy: 0.9657
+2637.1s 228 Best Weights saved to Disk.
+2709.1s 229 Epoch 961, Training Loss: 0.1228, Validation Loss: 0.1245, Accuracy: 0.9682
+2709.1s 230 Best Weights saved to Disk.
+2714.5s 231 Epoch 963, Training Loss: 0.1224, Validation Loss: 0.1240, Accuracy: 0.9683
+2714.5s 232 Best Weights saved to Disk.
+2806.8s 233 Epoch 996, Training Loss: 0.1233, Validation Loss: 0.1228, Accuracy: 0.9692
+2806.8s 234 Best Weights saved to Disk.
+2812.3s 235 Epoch 998, Training Loss: 0.1244, Validation Loss: 0.1220, Accuracy: 0.9699
+2812.3s 236 Best Weights saved to Disk.
+2818.2s 237 Epoch 1000, Training Loss: 0.1235, Validation Loss: 0.1217, Accuracy: 0.9698
+2818.2s 238 Best Weights saved to Disk.
+2818.2s 239 Epoch 1000, Training Loss: 0.1235, Validation Loss: 0.1217, Accuracy: 0.9698
+2991.9s 240 Epoch 1063, Training Loss: 0.1239, Validation Loss: 0.1189, Accuracy: 0.9663
+2991.9s 241 Best Weights saved to Disk.
+2997.3s 242 Epoch 1065, Training Loss: 0.1189, Validation Loss: 0.1149, Accuracy: 0.9652
+2997.3s 243 Best Weights saved to Disk.
+3002.8s 244 Epoch 1067, Training Loss: 0.1150, Validation Loss: 0.1115, Accuracy: 0.9675
+3002.8s 245 Best Weights saved to Disk.
+3008.7s 246 Epoch 1069, Training Loss: 0.1109, Validation Loss: 0.1065, Accuracy: 0.9683
+3008.7s 247 Best Weights saved to Disk.
+3014.2s 248 Epoch 1071, Training Loss: 0.1093, Validation Loss: 0.1045, Accuracy: 0.9685
+3014.2s 249 Best Weights saved to Disk.
+3093.9s 250 Epoch 1100, Training Loss: 0.1657, Validation Loss: 0.1642, Accuracy: 0.9614
+3220.4s 251 Epoch 1146, Training Loss: 0.1029, Validation Loss: 0.1003, Accuracy: 0.9751
+3220.4s 252 Best Weights saved to Disk.
+3333.7s 253 Epoch 1187, Training Loss: 0.1009, Validation Loss: 0.1002, Accuracy: 0.9739
+3333.7s 254 Best Weights saved to Disk.
+3339.1s 255 Epoch 1189, Training Loss: 0.0984, Validation Loss: 0.0984, Accuracy: 0.9756
+3339.1s 256 Best Weights saved to Disk.
+3344.6s 257 Epoch 1191, Training Loss: 0.0970, Validation Loss: 0.0978, Accuracy: 0.9754
+3344.6s 258 Best Weights saved to Disk.
+3350.1s 259 Epoch 1193, Training Loss: 0.0951, Validation Loss: 0.0957, Accuracy: 0.9765
+3350.1s 260 Best Weights saved to Disk.
+3355.6s 261 Epoch 1195, Training Loss: 0.0954, Validation Loss: 0.0941, Accuracy: 0.9754
+3355.6s 262 Best Weights saved to Disk.
+3369.7s 263 Epoch 1200, Training Loss: 0.1794, Validation Loss: 0.1687, Accuracy: 0.9588
+3476.5s 264 Epoch 1238, Training Loss: 0.0938, Validation Loss: 0.0929, Accuracy: 0.9782
+3476.5s 265 Best Weights saved to Disk.
+3652.5s 266 Epoch 1300, Training Loss: 0.1209, Validation Loss: 0.1214, Accuracy: 0.9730
+3730.8s 267 Epoch 1328, Training Loss: 0.0948, Validation Loss: 0.0907, Accuracy: 0.9784
+3730.8s 268 Best Weights saved to Disk.
+3736.2s 269 Epoch 1330, Training Loss: 0.0924, Validation Loss: 0.0882, Accuracy: 0.9795
+3736.2s 270 Best Weights saved to Disk.
+3741.7s 271 Epoch 1332, Training Loss: 0.0914, Validation Loss: 0.0873, Accuracy: 0.9788
+3741.7s 272 Best Weights saved to Disk.
+3747.4s 273 Epoch 1334, Training Loss: 0.0897, Validation Loss: 0.0852, Accuracy: 0.9790
+3747.4s 274 Best Weights saved to Disk.
+3752.9s 275 Epoch 1336, Training Loss: 0.0899, Validation Loss: 0.0848, Accuracy: 0.9792
+3752.9s 276 Best Weights saved to Disk.
+3763.8s 277 Epoch 1340, Training Loss: 0.0895, Validation Loss: 0.0838, Accuracy: 0.9801
+3763.8s 278 Best Weights saved to Disk.
+3769.2s 279 Epoch 1342, Training Loss: 0.0873, Validation Loss: 0.0816, Accuracy: 0.9798
+3769.2s 280 Best Weights saved to Disk.
+3775.0s 281 Epoch 1344, Training Loss: 0.0867, Validation Loss: 0.0811, Accuracy: 0.9802
+3775.0s 282 Best Weights saved to Disk.
+3780.6s 283 Epoch 1346, Training Loss: 0.0853, Validation Loss: 0.0800, Accuracy: 0.9808
+3780.6s 284 Best Weights saved to Disk.
+3786.0s 285 Epoch 1348, Training Loss: 0.0832, Validation Loss: 0.0787, Accuracy: 0.9806
+3786.0s 286 Best Weights saved to Disk.
+3791.4s 287 Epoch 1350, Training Loss: 0.0807, Validation Loss: 0.0756, Accuracy: 0.9814
+3791.4s 288 Best Weights saved to Disk.
+3796.9s 289 Epoch 1352, Training Loss: 0.0772, Validation Loss: 0.0732, Accuracy: 0.9816
+3796.9s 290 Best Weights saved to Disk.
+3802.4s 291 Epoch 1354, Training Loss: 0.0753, Validation Loss: 0.0720, Accuracy: 0.9818
+3802.4s 292 Best Weights saved to Disk.
+3808.3s 293 Epoch 1356, Training Loss: 0.0732, Validation Loss: 0.0710, Accuracy: 0.9814
+3808.3s 294 Best Weights saved to Disk.
+3813.7s 295 Epoch 1358, Training Loss: 0.0690, Validation Loss: 0.0675, Accuracy: 0.9811
+3813.7s 296 Best Weights saved to Disk.
+3819.1s 297 Epoch 1360, Training Loss: 0.0668, Validation Loss: 0.0649, Accuracy: 0.9819
+3819.1s 298 Best Weights saved to Disk.
+3824.6s 299 Epoch 1362, Training Loss: 0.0648, Validation Loss: 0.0644, Accuracy: 0.9825
+3824.6s 300 Best Weights saved to Disk.
+3912.9s 301 Epoch 1394, Training Loss: 0.0650, Validation Loss: 0.0642, Accuracy: 0.9831
+3912.9s 302 Best Weights saved to Disk.
+3918.3s 303 Epoch 1396, Training Loss: 0.0641, Validation Loss: 0.0632, Accuracy: 0.9834
+3918.3s 304 Best Weights saved to Disk.
+3923.8s 305 Epoch 1398, Training Loss: 0.0624, Validation Loss: 0.0619, Accuracy: 0.9838
+3923.8s 306 Best Weights saved to Disk.
+3929.2s 307 Epoch 1400, Training Loss: 0.0608, Validation Loss: 0.0601, Accuracy: 0.9845
+3929.2s 308 Best Weights saved to Disk.
+3929.2s 309 Epoch 1400, Training Loss: 0.0608, Validation Loss: 0.0601, Accuracy: 0.9845
+3934.7s 310 Epoch 1402, Training Loss: 0.0600, Validation Loss: 0.0600, Accuracy: 0.9847
+3934.7s 311 Best Weights saved to Disk.
+3951.2s 312 Epoch 1408, Training Loss: 0.0605, Validation Loss: 0.0600, Accuracy: 0.9846
+3951.2s 313 Best Weights saved to Disk.
+4204.1s 314 Epoch 1500, Training Loss: 0.0821, Validation Loss: 0.0770, Accuracy: 0.9751
+4291.8s 315 Epoch 1532, Training Loss: 0.0616, Validation Loss: 0.0585, Accuracy: 0.9830
+4291.8s 316 Best Weights saved to Disk.
+4297.2s 317 Epoch 1534, Training Loss: 0.0588, Validation Loss: 0.0545, Accuracy: 0.9834
+4297.2s 318 Best Weights saved to Disk.
+4302.7s 319 Epoch 1536, Training Loss: 0.0552, Validation Loss: 0.0514, Accuracy: 0.9842
+4302.7s 320 Best Weights saved to Disk.
+4308.1s 321 Epoch 1538, Training Loss: 0.0507, Validation Loss: 0.0476, Accuracy: 0.9861
+4308.1s 322 Best Weights saved to Disk.
+4358.3s 323 Epoch 1556, Training Loss: 0.0520, Validation Loss: 0.0473, Accuracy: 0.9868
+4358.3s 324 Best Weights saved to Disk.
+4363.9s 325 Epoch 1558, Training Loss: 0.0513, Validation Loss: 0.0467, Accuracy: 0.9868
+4363.9s 326 Best Weights saved to Disk.
+4483.0s 327 Epoch 1600, Training Loss: 0.0597, Validation Loss: 0.0532, Accuracy: 0.9852
+4541.6s 328 Epoch 1621, Training Loss: 0.0509, Validation Loss: 0.0466, Accuracy: 0.9839
+4541.6s 329 Best Weights saved to Disk.
+4603.4s 330 Epoch 1643, Training Loss: 0.0475, Validation Loss: 0.0443, Accuracy: 0.9884
+4603.4s 331 Best Weights saved to Disk.
+4609.2s 332 Epoch 1645, Training Loss: 0.0464, Validation Loss: 0.0434, Accuracy: 0.9883
+4609.2s 333 Best Weights saved to Disk.
+4614.7s 334 Epoch 1647, Training Loss: 0.0455, Validation Loss: 0.0427, Accuracy: 0.9892
+4614.7s 335 Best Weights saved to Disk.
+4620.2s 336 Epoch 1649, Training Loss: 0.0455, Validation Loss: 0.0422, Accuracy: 0.9895
+4620.2s 337 Best Weights saved to Disk.
+4631.0s 338 Epoch 1653, Training Loss: 0.0435, Validation Loss: 0.0410, Accuracy: 0.9891
+4631.0s 339 Best Weights saved to Disk.
+4758.1s 340 Epoch 1699, Training Loss: 0.0447, Validation Loss: 0.0406, Accuracy: 0.9892
+4758.1s 341 Best Weights saved to Disk.
+4760.8s 342 Epoch 1700, Training Loss: 0.0727, Validation Loss: 0.0726, Accuracy: 0.9839
+4763.5s 343 Epoch 1701, Training Loss: 0.0418, Validation Loss: 0.0384, Accuracy: 0.9902
+4763.5s 344 Best Weights saved to Disk.
+4769.2s 345 Epoch 1703, Training Loss: 0.0420, Validation Loss: 0.0383, Accuracy: 0.9897
+4769.2s 346 Best Weights saved to Disk.
+4774.6s 347 Epoch 1705, Training Loss: 0.0412, Validation Loss: 0.0377, Accuracy: 0.9890
+4774.6s 348 Best Weights saved to Disk.
+4785.4s 349 Epoch 1709, Training Loss: 0.0404, Validation Loss: 0.0368, Accuracy: 0.9892
+4785.4s 350 Best Weights saved to Disk.
+4790.9s 351 Epoch 1711, Training Loss: 0.0398, Validation Loss: 0.0360, Accuracy: 0.9891
+4790.9s 352 Best Weights saved to Disk.
+4802.1s 353 Epoch 1715, Training Loss: 0.0383, Validation Loss: 0.0353, Accuracy: 0.9888
+4802.1s 354 Best Weights saved to Disk.
+4812.9s 355 Epoch 1719, Training Loss: 0.0362, Validation Loss: 0.0338, Accuracy: 0.9894
+4812.9s 356 Best Weights saved to Disk.
+4835.0s 357 Epoch 1727, Training Loss: 0.0354, Validation Loss: 0.0335, Accuracy: 0.9885
+4835.0s 358 Best Weights saved to Disk.
+5034.6s 359 Epoch 1800, Training Loss: 0.0700, Validation Loss: 0.0692, Accuracy: 0.9832
+5069.9s 360 Epoch 1813, Training Loss: 0.0336, Validation Loss: 0.0330, Accuracy: 0.9907
+5069.9s 361 Best Weights saved to Disk.
+5075.3s 362 Epoch 1815, Training Loss: 0.0326, Validation Loss: 0.0318, Accuracy: 0.9914
+5075.3s 363 Best Weights saved to Disk.
+5080.7s 364 Epoch 1817, Training Loss: 0.0314, Validation Loss: 0.0304, Accuracy: 0.9917
+5080.7s 365 Best Weights saved to Disk.
+5086.1s 366 Epoch 1819, Training Loss: 0.0304, Validation Loss: 0.0289, Accuracy: 0.9921
+5086.1s 367 Best Weights saved to Disk.
+5092.1s 368 Epoch 1821, Training Loss: 0.0296, Validation Loss: 0.0289, Accuracy: 0.9920
+5092.1s 369 Best Weights saved to Disk.
+5097.6s 370 Epoch 1823, Training Loss: 0.0288, Validation Loss: 0.0281, Accuracy: 0.9918
+5097.6s 371 Best Weights saved to Disk.
+5113.9s 372 Epoch 1829, Training Loss: 0.0268, Validation Loss: 0.0281, Accuracy: 0.9926
+5113.9s 373 Best Weights saved to Disk.
+5119.5s 374 Epoch 1831, Training Loss: 0.0257, Validation Loss: 0.0272, Accuracy: 0.9923
+5119.5s 375 Best Weights saved to Disk.
+5125.1s 376 Epoch 1833, Training Loss: 0.0250, Validation Loss: 0.0265, Accuracy: 0.9932
+5125.1s 377 Best Weights saved to Disk.
+5308.9s 378 Epoch 1900, Training Loss: 0.0409, Validation Loss: 0.0428, Accuracy: 0.9889
+5524.0s 379 Epoch 1978, Training Loss: 0.0265, Validation Loss: 0.0263, Accuracy: 0.9936
+5524.0s 380 Best Weights saved to Disk.
+5529.3s 381 Epoch 1980, Training Loss: 0.0260, Validation Loss: 0.0253, Accuracy: 0.9933
+5529.3s 382 Best Weights saved to Disk.
+5534.7s 383 Epoch 1982, Training Loss: 0.0246, Validation Loss: 0.0234, Accuracy: 0.9939
+5534.7s 384 Best Weights saved to Disk.
+5562.1s 385 Epoch 1992, Training Loss: 0.0239, Validation Loss: 0.0230, Accuracy: 0.9920
+5562.1s 386 Best Weights saved to Disk.
+5567.5s 387 Epoch 1994, Training Loss: 0.0226, Validation Loss: 0.0220, Accuracy: 0.9920
+5567.5s 388 Best Weights saved to Disk.
+5573.1s 389 Epoch 1996, Training Loss: 0.0224, Validation Loss: 0.0212, Accuracy: 0.9924
+5573.1s 390 Best Weights saved to Disk.
+5578.5s 391 Epoch 1998, Training Loss: 0.0210, Validation Loss: 0.0198, Accuracy: 0.9928
+5578.5s 392 Best Weights saved to Disk.
+5583.9s 393 Epoch 2000, Training Loss: 0.0206, Validation Loss: 0.0196, Accuracy: 0.9933
+5583.9s 394 Best Weights saved to Disk.
+5583.9s 395 Epoch 2000, Training Loss: 0.0206, Validation Loss: 0.0196, Accuracy: 0.9933
+5594.6s 396 Epoch 2004, Training Loss: 0.0207, Validation Loss: 0.0195, Accuracy: 0.9928
+5594.6s 397 Best Weights saved to Disk.
+5759.3s 398 Epoch 2064, Training Loss: 0.0195, Validation Loss: 0.0193, Accuracy: 0.9951
+5759.3s 399 Best Weights saved to Disk.
+5857.8s 400 Epoch 2100, Training Loss: 0.0336, Validation Loss: 0.0332, Accuracy: 0.9928
+5969.7s 401 Epoch 2141, Training Loss: 0.0184, Validation Loss: 0.0191, Accuracy: 0.9942
+5969.7s 402 Best Weights saved to Disk.
+5986.2s 403 Epoch 2147, Training Loss: 0.0183, Validation Loss: 0.0188, Accuracy: 0.9953
+5986.2s 404 Best Weights saved to Disk.
+6130.5s 405 Epoch 2200, Training Loss: 0.0245, Validation Loss: 0.0251, Accuracy: 0.9928
+6234.9s 406 Epoch 2238, Training Loss: 0.0162, Validation Loss: 0.0176, Accuracy: 0.9957
+6234.9s 407 Best Weights saved to Disk.
+6240.4s 408 Epoch 2240, Training Loss: 0.0147, Validation Loss: 0.0147, Accuracy: 0.9962
+6240.4s 409 Best Weights saved to Disk.
+6246.2s 410 Epoch 2242, Training Loss: 0.0148, Validation Loss: 0.0143, Accuracy: 0.9954
+6246.2s 411 Best Weights saved to Disk.
+6306.3s 412 Epoch 2264, Training Loss: 0.0161, Validation Loss: 0.0142, Accuracy: 0.9951
+6306.3s 413 Best Weights saved to Disk.
+6338.8s 414 Epoch 2276, Training Loss: 0.0156, Validation Loss: 0.0142, Accuracy: 0.9954
+6338.8s 415 Best Weights saved to Disk.
+6360.5s 416 Epoch 2284, Training Loss: 0.0147, Validation Loss: 0.0137, Accuracy: 0.9957
+6360.5s 417 Best Weights saved to Disk.
+6387.7s 418 Epoch 2294, Training Loss: 0.0168, Validation Loss: 0.0129, Accuracy: 0.9952
+6387.7s 419 Best Weights saved to Disk.
+6404.3s 420 Epoch 2300, Training Loss: 0.0213, Validation Loss: 0.0185, Accuracy: 0.9939
+6524.0s 421 Epoch 2344, Training Loss: 0.0129, Validation Loss: 0.0127, Accuracy: 0.9960
+6524.0s 422 Best Weights saved to Disk.
+6551.2s 423 Epoch 2354, Training Loss: 0.0116, Validation Loss: 0.0111, Accuracy: 0.9971
+6551.2s 424 Best Weights saved to Disk.
+6556.6s 425 Epoch 2356, Training Loss: 0.0112, Validation Loss: 0.0109, Accuracy: 0.9970
+6556.6s 426 Best Weights saved to Disk.
+6578.4s 427 Epoch 2364, Training Loss: 0.0099, Validation Loss: 0.0097, Accuracy: 0.9973
+6578.4s 428 Best Weights saved to Disk.
+6583.7s 429 Epoch 2366, Training Loss: 0.0089, Validation Loss: 0.0087, Accuracy: 0.9972
+6583.7s 430 Best Weights saved to Disk.
+6594.9s 431 Epoch 2370, Training Loss: 0.0088, Validation Loss: 0.0084, Accuracy: 0.9974
+6594.9s 432 Best Weights saved to Disk.
+6610.9s 433 Epoch 2376, Training Loss: 0.0087, Validation Loss: 0.0083, Accuracy: 0.9973
+6610.9s 434 Best Weights saved to Disk.
+6675.5s 435 Epoch 2400, Training Loss: 0.0141, Validation Loss: 0.0121, Accuracy: 0.9963
+6854.1s 436 Epoch 2466, Training Loss: 0.0082, Validation Loss: 0.0083, Accuracy: 0.9973
+6854.1s 437 Best Weights saved to Disk.
+6859.4s 438 Epoch 2468, Training Loss: 0.0076, Validation Loss: 0.0076, Accuracy: 0.9976
+6859.4s 439 Best Weights saved to Disk.
+6864.7s 440 Epoch 2470, Training Loss: 0.0071, Validation Loss: 0.0070, Accuracy: 0.9978
+6864.7s 441 Best Weights saved to Disk.
+6870.0s 442 Epoch 2472, Training Loss: 0.0067, Validation Loss: 0.0064, Accuracy: 0.9980
+6870.0s 443 Best Weights saved to Disk.
+6875.4s 444 Epoch 2474, Training Loss: 0.0062, Validation Loss: 0.0059, Accuracy: 0.9982
+6875.4s 445 Best Weights saved to Disk.
+6880.7s 446 Epoch 2476, Training Loss: 0.0056, Validation Loss: 0.0055, Accuracy: 0.9979
+6880.7s 447 Best Weights saved to Disk.
+6902.6s 448 Epoch 2484, Training Loss: 0.0054, Validation Loss: 0.0052, Accuracy: 0.9981
+6902.6s 449 Best Weights saved to Disk.
+6924.2s 450 Epoch 2492, Training Loss: 0.0048, Validation Loss: 0.0048, Accuracy: 0.9981
+6924.2s 451 Best Weights saved to Disk.
+6942.9s 452 Best Weights loaded from Disk.
+6943.0s 453 Test Accuracy: 95.38%
+6943.0s 454 Test Loss: 0.31934316092416865
+6945.8s 455 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+6945.8s 456 warn(
+6945.9s 457 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+6946.3s 458 [NbConvertApp] Writing 71582 bytes to __notebook__.ipynb
+6947.9s 459 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+6947.9s 460 warn(
+6947.9s 461 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+6949.0s 462 [NbConvertApp] Support files will be in __results___files/
+6949.0s 463 [NbConvertApp] Making directory __results___files
+6949.0s 464 [NbConvertApp] Writing 355063 bytes to __results__.html
