@@ -1,5 +1,3 @@
-#DL LAB
-
 
 ## Lab 1: Fully Connected Neural Network for MNIST Classification
 
