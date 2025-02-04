@@ -1,7 +1,77 @@
-# Deep-Learning-Lab
+Lab 1: Fully Connected Neural Network for MNIST Classification
 
-*Lab 1: Experiment 1:* In this experiment, we implemented a fully connected neural network for classifying digits from the MNIST dataset using NumPy. It demonstrates data preprocessing, model training with forward and backward propagation, and evaluation using accuracy and loss metrics. We also used data augmentation methods like random rotation and horizontal flipping to improve generalization.
+Overview
 
-*Lab 2: Experiment 2:* In this experiment, we trained neural networks on linearly separable and non-linearly separable datasets (E.g., Moon, Circle) using NumPy. It demonstrates the limitations of a network without hidden layers and the improvement with hidden layers and activation functions like ReLU or Sigmoid.
+Implemented a fully connected neural network using NumPy to classify handwritten digits from the MNIST dataset. The experiment demonstrates:
 
-*Lab 3: Experiment 3:* In this experiment, we implemented Convolutional Neural Networks (CNNs) for classifying images from the Cats vs. Dogs and CIFAR-10 datasets. We experimented with different activation functions (ReLU, Tanh, Leaky ReLU), weight initialization techniques (Xavier, Kaiming, Random), and optimizers (SGD, Adam, RMSprop). We trained and evaluated the models using accuracy and loss metrics, saved the best models, and compared them with a fine-tuned ResNet-18 for performance.
+Data Preprocessing: Normalization, one-hot encoding.
+
+Model Training: Forward and backward propagation.
+
+Optimization: Loss functions, gradient descent.
+
+Evaluation: Accuracy, loss metrics.
+
+Data Augmentation: Random rotation, horizontal flipping.
+
+Concepts
+
+MNIST Dataset: A benchmark dataset for digit classification.
+
+Forward Propagation: Computes predictions.
+
+Backward Propagation: Updates weights using gradients.
+
+Activation Functions: ReLU, Sigmoid for non-linearity.
+
+Loss Function: Cross-entropy for classification tasks.
+
+Optimization: Stochastic Gradient Descent (SGD).
+
+Lab 2: Neural Networks on Linearly and Non-Linearly Separable Data
+
+Overview
+
+Trained neural networks on linearly separable (e.g., line) and non-linearly separable (e.g., Moon, Circle datasets) using NumPy. The experiment demonstrates:
+
+Effect of Hidden Layers: A single-layer network struggles with complex decision boundaries.
+
+Activation Functions: Importance of ReLU, Sigmoid in deep learning.
+
+Comparative Analysis: Performance of different architectures on different datasets.
+
+Concepts
+
+Linearly Separable Data: Can be separated by a straight line.
+
+Non-Linearly Separable Data: Requires non-linear transformations.
+
+ReLU (Rectified Linear Unit): Solves vanishing gradient problem.
+
+Sigmoid: Used in binary classification.
+
+Lab 3: Convolutional Neural Networks (CNNs) for Image Classification
+
+Overview
+
+Implemented CNNs for classifying images from the Cats vs. Dogs and CIFAR-10 datasets. The experiment includes:
+
+CNN Architecture: Feature extraction using convolutional layers.
+
+Activation Functions: Experimenting with ReLU, Tanh, and Leaky ReLU.
+
+Weight Initialization: Xavier, Kaiming, and Random.
+
+Optimizers: SGD, Adam, RMSprop.
+
+Performance Evaluation: Comparing CNNs with a fine-tuned ResNet-18.
+
+Concepts
+
+CNN (Convolutional Neural Network): Extracts spatial features from images.
+
+ResNet-18: A deep CNN architecture with skip connections.
+
+Adam Optimizer: Adaptive learning rate optimization.
+
+Xavier & Kaiming Initialization: Methods to stabilize gradient flow in deep networks.
