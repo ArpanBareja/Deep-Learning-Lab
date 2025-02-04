@@ -1,8 +1,6 @@
 # Save the README content as a downloadable file
 
-file_path = "/mnt/data/README_NN_Experiments.md"
 
-content = """# Neural Network Experiments
 
 ## Lab 1: Fully Connected Neural Network for MNIST Classification
 
@@ -80,7 +78,4 @@ Implemented **CNNs** for classifying images from the **Cats vs. Dogs** and **CIF
 - Fine-tuning hyperparameters for better generalization.
 """
 
-with open(file_path, "w") as file:
-    file.write(content)
 
-file_path
