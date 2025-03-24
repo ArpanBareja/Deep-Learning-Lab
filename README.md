@@ -86,7 +86,7 @@ This project is a simple poetry generator using a Recurrent Neural Network (RNN)
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/poetry-generator.git
+   git clone https://github.com/ArpanBareja/Deep-Learning-Lablab5/poem-exp.ipynb.git
    cd poetry-generator
    ```
 2. Install dependencies:
