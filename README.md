@@ -73,3 +73,53 @@ Implemented *CNNs* for classifying images from the *Cats vs. Dogs* and *CIFAR-10
 - Experimenting with *Transfer Learning* for small datasets.
 - Fine-tuning hyperparameters for better generalization.
 """
+
+## Lab 4:  Poetry Generator using RNN (LSTM)
+
+This project is a simple poetry generator using a Recurrent Neural Network (RNN) with LSTM layers. It trains on a dataset of poems and generates new poetic lines based on learned patterns.
+
+## Features
+- Uses LSTM-based neural networks for text generation.
+- Trained on a dataset of poems.
+- Generates poetry based on a seed input.
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/poetry-generator.git
+   cd poetry-generator
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+### Train the Model
+Run the following command to train the model:
+```sh
+python train.py
+```
+This will process the dataset, train the LSTM model, and save it for later use.
+
+### Generate Poetry
+After training, you can generate poetry by running:
+```sh
+python generate.py
+```
+It will prompt you to enter a seed text and generate poetry based on it.
+
+## Dependencies
+- TensorFlow
+- NumPy
+- Pickle
+
+Install all dependencies using:
+```sh
+pip install -r requirements.txt
+```
+
+## Dataset
+poems-100 dataset available on Kaggle
+
