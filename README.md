@@ -14,7 +14,7 @@ Implemented a fully connected neural network using *NumPy* to classify handwritt
 - *Backward Propagation*: Updates weights using gradients.
 - *Activation Functions*: ReLU, Sigmoid for non-linearity.
 - *Loss Function*: Cross-entropy for classification tasks.
-- *Optimization*: Stochastic Gradient Descent (SGD).
+- *Optimization*: Stochastic Gradient Descent.
 
 ---
 
